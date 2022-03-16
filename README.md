@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-I am a Junior developer in web, for now using HTML and CSS.
-I am also a student, taking frontend course to learn more about web development.
-I also started studying Python, learning a bit of data analisys with Pandas.
+I am a Junior developer in web, for now using HTML and CSS.<br />
+I am also a student, taking frontend course to learn more about web development.<br />
+I also started studying Python, learning a bit of data analisys with Pandas.<br />
 
 - 🌱 I’m currently learning HTML,CSS and JS
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/victor-peixoto-26706ab1/)/ peixoto2112@gmail.com
